@@ -19,7 +19,7 @@ Pre-authentication path traversal / arbitrary file read in Etherpad < 3.3.3.
 ## Installation
 
 ```bash
-git clone https://github.com/EtherPadSniper/ep-afr.git
+git clone https://github.com/EtherPadSniper
 cd ep-afr
 pip install requests
 ```
